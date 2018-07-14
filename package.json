@@ -1,0 +1,20 @@
+{
+  "name": "me.conmy.iot_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "server",
+    "post"
+  ],
+  "author": "David Conmy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security"
+  }
+}
